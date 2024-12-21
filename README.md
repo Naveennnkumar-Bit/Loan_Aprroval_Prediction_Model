@@ -62,6 +62,3 @@ After addressing class imbalance and retraining the models, improvements in accu
 - **Libraries**: pandas, numpy, scikit-learn, imbalanced-learn, seaborn, matplotlib
 - **Machine Learning Models**: Logistic Regression, Decision Trees, Random Forest, KNN
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
